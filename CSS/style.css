@@ -97,7 +97,7 @@ h6 {
 
 .my_info {
     display: flex;
-    background-color: blueviolet;
+    background-color: rgb(127, 23, 223);
     width: 400px;
 }
 
